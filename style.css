@@ -14,6 +14,10 @@ body{
     border-radius: 12px;
     background-color: #FEA301;
     border: none;
+    transition: 1s;
+}
+.btn-primery:hover{
+    transform: scalex(1.05);
 }
 .btn-primery a{
     font-size: 20px;
@@ -171,6 +175,10 @@ nav{
     border-radius: 18px;
     padding: 50px;
     box-shadow: inset 0px 1px 10px rgba(95, 95, 95, 0.1);
+    transition: 1s;
+}
+.curriculum-items div:hover{
+    transform: scaley(1.05);
 }
 .curriculum-items h3{
     font-size: 24px;
