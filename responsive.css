@@ -1,6 +1,6 @@
 
 /* responsive for tablet device */
-@media screen and (max-width:992px) {
+@media screen and (min-width:576px) and (max-width:992px) {
     /* nav responsive */
 .nav-container{
     padding: 20px 5%;
